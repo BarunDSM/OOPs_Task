@@ -1,3 +1,8 @@
+# Q4. What are getter and setter in python?
+# Ans: Getters: These are the methods used in Object-Oriented Programming (OOPS) which helps to access the private attributes from a class. 
+# Setters: These are the methods used in OOPS feature which helps to set the value to private attributes in a class.
+
+# Eg:
 class car:
     def __init__(self,speed,company,model,price):
         self.__speed=speed
