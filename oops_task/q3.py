@@ -1,3 +1,8 @@
+# Q3. What is multiple inheritance?
+# Ans: When a class is derived from more than one base class it is called multiple Inheritance.
+
+    
+# Example:
 class c1:
     def t1(self):
         print("c1")
