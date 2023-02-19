@@ -1,4 +1,8 @@
+# q5.What is method overriding in python?
+# Ans: Method overriding is a feature of object-oriented programming languages where the subclass or child class can provide the program with specific characteristics
+# 	or a specific implementation process of data provided that are already defined in the parent class or superclass.
 
+# Eg:
 class Parent():
 
 	def __init__(self):
